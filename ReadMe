@@ -1,5 +1,5 @@
 Read me:
 ---------------------------------------------------------------------------------------------------------------------------------
 The report file contains the code, output and all details related to the project.
-I have used Arduino uno for this project.
+I have used Arduino uno and GSM module(to send sms) for this project.
 You just need to run the code in arduino IDE.
